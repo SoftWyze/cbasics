@@ -1,3 +1,8 @@
+/*
+ * Program to print the name of the user
+ * (c) 2018 SoftWyze (Pvt) Ltd
+ */
+
 #include <stdio.h>
 
 int main(int argc, char *argv[])
